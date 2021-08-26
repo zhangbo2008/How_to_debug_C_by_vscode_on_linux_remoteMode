@@ -1,3 +1,4 @@
+```
 # How_to_debug_C_by_vscode_on_linux_remoteMode
 
 
@@ -59,3 +60,4 @@ https://www.zhihu.com/question/20792016
 
 	这个项目外层一个cmakelists.txt 然后里层还有2个文件夹,一个lib一个test
 	运行后都会跑里面代码,所以里面的main函数加断点即可.
+```
